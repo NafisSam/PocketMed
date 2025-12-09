@@ -3,7 +3,7 @@
   <img src="assets/logo.png" alt="PocketMed Logo" width="180"/>
 </p>
 
-<h1 align="center">🌿 PocketMed</h1>
+<h1 align="center">PocketMed</h1>
 <h3 align="center">Your care, uninterrupted.</h3>
 
 ---
