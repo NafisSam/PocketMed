@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Add your logo inside /assets/logo.png -->
-  <img src="assets/logo.png" alt="PocketMed Logo" width="180"/>
+  <img src="asset/logo.png" alt="PocketMed Logo" width="180"/>
 </p>
 
 <h1 align="center">PocketMed</h1>
